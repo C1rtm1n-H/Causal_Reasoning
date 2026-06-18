@@ -1,0 +1,58 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Akiba(2026)]{mdpi2026illusion}
+Akiba, D.
+\newblock The illusion of causality in llms: A developmentally grounded
+  analysis of semantic scaffolding and benchmark-capability mismatches.
+\newblock \emph{Machine Learning and Knowledge Extraction}, 8\penalty0
+  (3):\penalty0 57, 2026.
+
+\bibitem[Han~Lin(2025)]{structuredcot}
+Han~Lin, M.~J.
+\newblock Structured causal cot prompting for enhanced causal reasoning in
+  llms.
+\newblock \emph{Current Science}, 2025.
+
+\bibitem[Jin et~al.(2024)Jin, Liu, Lyu, Peng, Berber~Sardinha, Bottou,
+  Sch{\"o}lkopf, and Sachan]{jin2024corr2cause}
+Jin, Z., Liu, J., Lyu, Z., Peng, S., Berber~Sardinha, T., Bottou, L.,
+  Sch{\"o}lkopf, B., and Sachan, M.
+\newblock Can large language models infer causation from correlation?
+\newblock In \emph{The Twelfth International Conference on Learning
+  Representations}, 2024.
+
+\bibitem[Kiciman et~al.(2024)Kiciman, Ness, Sharma, and Tan]{kiciman2024causal}
+Kiciman, E., Ness, R., Sharma, A., and Tan, C.
+\newblock Causal reasoning and large language models: Opening a new frontier
+  for causality.
+\newblock \emph{arXiv preprint arXiv:2305.00050}, 2024.
+
+\bibitem[Ma et~al.(2025)]{ma2025survey}
+Ma, J. et~al.
+\newblock Causal inference with large language model: A survey.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  NAACL 2025}, 2025.
+
+\bibitem[Pearl \& Mackenzie(2018)Pearl and Mackenzie]{pearl2018book}
+Pearl, J. and Mackenzie, D.
+\newblock \emph{The Book of Why: The New Science of Cause and Effect}.
+\newblock Basic books, 2018.
+
+\bibitem[Sheth et~al.(2025)Sheth, Fatemi, et~al.]{sheth2025causalgraph}
+Sheth, I., Fatemi, B., et~al.
+\newblock Causalgraph2llm: Evaluating llms for causal queries.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  NAACL 2025}, 2025.
+
+\bibitem[Yuzhe~Wang(2025)]{causalflip2025}
+Yuzhe~Wang, Yaochen~Zhu, J.~L.
+\newblock Causalflip: A benchmark for llm causal judgment beyond semantic
+  matching.
+\newblock \emph{arXiv preprint arXiv:2602.20094}, 2025.
+
+\end{thebibliography}
